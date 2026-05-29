@@ -1,5 +1,9 @@
-money = True
-if money:
+money = 2000
+card = True
+#if money >=3000 or card:
+#    print("택시를 타고 가라")
+
+if money >=3000 and card:
     print("택시를 타고 가라")
 
 else:
